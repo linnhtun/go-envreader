@@ -6,4 +6,4 @@ This Go package provides to read environment variables with default values suppo
 ## Installation
 
 ```bash
-go get [github.com/linnhtun/go-envreader](https://github.com/linnhtun/go-envreader)
+go get github.com/linnhtun/go-envreader
